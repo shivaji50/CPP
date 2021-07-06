@@ -1,3 +1,4 @@
 # CPP
-C++ Proagram Application
-This File contains Simple and Complex Cpp Programs
+THIS RESPORITY CONTAINS SIMPLE AND COMPLEX C PROGRAMS SOLVED BY MI
+
+WHILE LEARNING C++-LANGUAGE
